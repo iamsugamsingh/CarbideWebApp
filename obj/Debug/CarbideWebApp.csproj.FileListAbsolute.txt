@@ -1,0 +1,25 @@
+D:\Anu software\CarbideWebApp\bin\CarbideWebApp.dll
+D:\Anu software\CarbideWebApp\bin\CarbideWebApp.pdb
+D:\Anu software\CarbideWebApp\obj\Debug\CarbideWebApp.dll
+D:\Anu software\CarbideWebApp\obj\Debug\CarbideWebApp.pdb
+D:\Anu software\CarbideWebApp\obj\Debug\CarbideWebApp.csprojResolveAssemblyReference.cache
+W:\Software\Sugam\CarbideWebApp\bin\CarbideWebApp.dll
+W:\Software\Sugam\CarbideWebApp\bin\CarbideWebApp.pdb
+W:\Software\Sugam\CarbideWebApp\obj\Debug\CarbideWebApp.csprojResolveAssemblyReference.cache
+W:\Software\Sugam\CarbideWebApp\obj\Debug\CarbideWebApp.dll
+W:\Software\Sugam\CarbideWebApp\obj\Debug\CarbideWebApp.pdb
+D:\Complete Softwares\CarbideWebApp\bin\CarbideWebApp.dll
+D:\Complete Softwares\CarbideWebApp\bin\CarbideWebApp.pdb
+D:\Complete Softwares\CarbideWebApp\obj\Debug\CarbideWebApp.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\CarbideWebApp\obj\Debug\CarbideWebApp.dll
+D:\Complete Softwares\CarbideWebApp\obj\Debug\CarbideWebApp.pdb
+D:\CarbideWebApp\bin\CarbideWebApp.dll
+D:\CarbideWebApp\bin\CarbideWebApp.pdb
+D:\CarbideWebApp\obj\Debug\CarbideWebApp.csprojResolveAssemblyReference.cache
+D:\CarbideWebApp\obj\Debug\CarbideWebApp.dll
+D:\CarbideWebApp\obj\Debug\CarbideWebApp.pdb
+D:\w data\CarbideWebApp\bin\CarbideWebApp.dll
+D:\w data\CarbideWebApp\bin\CarbideWebApp.pdb
+D:\w data\CarbideWebApp\obj\Debug\CarbideWebApp.csprojResolveAssemblyReference.cache
+D:\w data\CarbideWebApp\obj\Debug\CarbideWebApp.dll
+D:\w data\CarbideWebApp\obj\Debug\CarbideWebApp.pdb
